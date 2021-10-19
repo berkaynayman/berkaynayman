@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
+<img width="333" height="277" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
