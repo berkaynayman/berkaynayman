@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
- 🔭 I’m currently working on [Easy Bank Web Site](https://github.com/berkaynayman/web-site-1) </br>
+ 🔭 I’m currently working on [Easy Bank Web Site](https://github.com/berkaynayman/web-site-1) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
  🖼️ I loved to take photos. </br>
  🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
 
@@ -21,7 +21,7 @@
 <a href="https://discord.gg/Berkay#4638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Berkay#4638" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163 )
 
