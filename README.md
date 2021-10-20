@@ -4,8 +4,10 @@
 
 <img width="333" height="277" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
 
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+![Profile views](https://gpvc.arturio.dev/berkaynayman)
 
+<h2 align="center">A passionate frontend developer from Turkey</h2>
+ 
  🔭 I’m currently working on [Easy Bank Web Site](https://github.com/berkaynayman/web-site-1) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
  🖼️ I loved to take photos. </br>
  🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
@@ -23,12 +25,11 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163 )
-
-<br>
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaynayman&theme=tokyonight)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=berkaynayman)
   
 </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynayman&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="berkaynayman" /></p>
+
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=dark&locale=en" alt="berkaynayman" width="52%"/></p>
