@@ -23,10 +23,6 @@
 <a href="https://discord.gg/Berkay#4638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Berkay#4638" height="30" width="40" /></a>
 </p>
 
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=berkaynayman)
-  
 </div>
 
 
