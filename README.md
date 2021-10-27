@@ -8,7 +8,7 @@
 
 <h2 align="center">A passionate frontend developer from Turkey</h2>
  
- 🔭 I’m currently working on [Easy Bank Web Site](https://github.com/berkaynayman/web-site-1) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
+ 🔭 I’m currently working on [Easy Bank Web Site](https://berkaynayman.github.io/web-site-1/) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
  🖼️ I loved to take photos. </br>
  🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
 
