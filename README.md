@@ -8,7 +8,7 @@
 
 <h2 align="center">A passionate frontend developer from Turkey</h2>
  
- 🔭 I’m currently working on [Easy Bank Web Site](https://berkaynayman.github.io/web-site-1/) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
+ 🔭 I’m currently working on [JavaScript Camp](https://github.com/berkaynayman/jscamp) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
  🖼️ I loved to take photos. </br>
  🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
 
@@ -20,7 +20,6 @@
 <a href="https://twitter.com/naymanberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymanberkay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkay-nayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-nayman" height="30" width="40" /></a>
 <a href="https://instagram.com/berkay.nayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkay.nayman" height="30" width="40" /></a>
-<a href="https://discord.gg/Berkay#4638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Berkay#4638" height="30" width="40" /></a>
 </p>
 
 </div>
