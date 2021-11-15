@@ -8,7 +8,7 @@
 
 <h2 align="center">A passionate frontend developer from Turkey</h2>
  
- 🔭 I’m currently working on [JavaScript Camp](https://github.com/berkaynayman/jscamp) && [JavaScript Patika](https://github.com/berkaynayman/javascript-patika) </br>
+ 🔭 I’m currently working on [JavaScript Camp](https://github.com/berkaynayman/jscamp) && [React Patika](https://github.com/berkaynayman/React-Patika) </br>
  🖼️ I loved to take photos. </br>
  🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
 
