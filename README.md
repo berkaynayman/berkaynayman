@@ -28,3 +28,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynayman&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="berkaynayman" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=dark&locale=en" alt="berkaynayman" width="52%"/></p>
+
+<h3>Repository</h3>
+
+<a href="https://github.com/berkaynayman/contacts-app" width="100px">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=contacts-app&theme=tokyonight" width="475px"/>
+</a>
+<a href="https://github.com/berkaynayman/AsianKitchensMenu">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=AsianKitchensMenu&theme=tokyonight" width="475px"/>
+</a>
+<a href="https://github.com/berkaynayman/web-site-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=web-site-1&theme=tokyonight" width="475px"/>
+</a>
+<a href="https://github.com/berkaynayman/Seyahat-Sitesi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=Seyahat-Sitesi&theme=tokyonight" width="475px"/>
+</a>
+
