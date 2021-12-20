@@ -47,15 +47,15 @@
 <h3>Repository</h3>
 
 <a href="https://github.com/berkaynayman/contacts-app" width="100px">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=contacts-app&theme=tokyonight" width="475px"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=contacts-app&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/berkaynayman/AsianKitchensMenu">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=AsianKitchensMenu&theme=tokyonight" width="475px"/>
+<a href="https://github.com/berkaynayman/chat-app">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=chat-app&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/berkaynayman/web-site-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=web-site-1&theme=tokyonight" width="475px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=web-site-1&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/berkaynayman/Seyahat-Sitesi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=Seyahat-Sitesi&theme=tokyonight" width="475px"/>
+<a href="https://github.com/berkaynayman/turkey-cities-weather-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=turkey-cities-weather-app&theme=tokyonight" width="400px"/>
 </a>
 
