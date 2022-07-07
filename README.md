@@ -28,10 +28,11 @@
 
 </p>
 
-<h3>Connect with me:</h3>
+<h3>Social Media Account</h3>
 <p>
 <a href="https://twitter.com/naymanberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymanberkay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkay-nayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-nayman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17183817/berkay-nayman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="stackoverflow berkay nayman account" height="30" width="30" /></a>
 </p>
 
 </div>
