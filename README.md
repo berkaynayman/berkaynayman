@@ -31,11 +31,3 @@
 </p>
 
 </div>
-
-<hr/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynayman&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="berkaynayman" /></p>
-
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=dark&locale=en" alt="berkaynayman" width="52%"/></p>
-
-
