@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Berkay Nayman</h1>
+<h1 align="center">👋 I'm Berkay Nayman</h1>
 
 <div align="center">
 
 <img width="333" height="277" src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif">
 
 <h2 align="center">A passionate frontend developer from Turkey</h2>
- 
- 🔭 I'm currently working on JavaScript Technologies </br>
- 🖼️ I loved to take photos. </br>
- 🐘 😹 🐶 🐦 I loved animals and nature. 🌳 🌧️
-
-<h3>Languages and Tools:</h3>
 <p>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -28,7 +22,8 @@
 
 </p>
 
-<h3>Social Media Account</h3>
+<hr/>
+ 
 <p>
 <a href="https://twitter.com/naymanberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymanberkay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkay-nayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-nayman" height="30" width="40" /></a>
@@ -37,23 +32,10 @@
 
 </div>
 
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynayman&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="berkaynayman" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynayman&show_icons=true&theme=dark&locale=en" alt="berkaynayman" width="52%"/></p>
 
-<h3>Repository</h3>
-
-<a href="https://github.com/berkaynayman/contacts-app" width="100px">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=contacts-app&theme=tokyonight" width="400px"/>
-</a>
-<a href="https://github.com/berkaynayman/chat-app">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=chat-app&theme=tokyonight" width="400px"/>
-</a>
-<a href="https://github.com/berkaynayman/web-site-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=web-site-1&theme=tokyonight" width="400px"/>
-</a>
-<a href="https://github.com/berkaynayman/turkey-cities-weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkaynayman&repo=turkey-cities-weather-app&theme=tokyonight" width="400px"/>
-</a>
 
