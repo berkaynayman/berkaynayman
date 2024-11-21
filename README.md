@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate frontend developer from Poland 🇵🇱 </h3>
 
-- 🔭 I’m currently working on [AirBnb Clone](https://github.com/berkaynayman/airbnb)
-
 - 👨‍💻 All of my projects are available at [http://berkaynayman.com](http://berkaynayman.com)
 
 - 📫 How to reach me **berkaynayman4@gmail.com**
